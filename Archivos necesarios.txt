@@ -1,0 +1,2 @@
+Ubuntu nerd fonts
+Rofi
